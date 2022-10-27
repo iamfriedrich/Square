@@ -1,2 +1,2 @@
 # Square
-This is an AI that fills in the table of magic squares.
+This is an AI written in Python that fills in the table of magic squares using constraint satisfaction. Under the main, call the function of msqList to experience normal magic squares, call pmsList to experience pan-diagonal magic squares, you can also pass the parameters you like. Note that the program is very slow for n > 4 and a small (or especially empty) list of extra constraints. I hope you like my code, and if you do enjoy it, please follow me on GitHub, thanks so much.
